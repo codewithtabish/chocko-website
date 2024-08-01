@@ -1,0 +1,1 @@
+ALTER TABLE "inventories" ALTER COLUMN "sku" SET DATA TYPE varchar(10);
